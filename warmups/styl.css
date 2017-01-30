@@ -1,0 +1,28 @@
+body {
+    margin: 0 40px;
+}
+.one {
+    height: 40px;
+    background-color: black;
+    text-align: center;
+    width: 100%;
+    padding: 20px;
+}
+span {
+    color: white;
+    padding: 0 40px;
+}
+.foot {
+    height: 40px;
+    background-color: black;
+    text-align: center;
+    width: 100%;
+    padding: 20px;
+    bottom: 0 ;
+    position: absolute;
+    color: white;
+        
+}
+h1 {
+    text-align: center;
+}

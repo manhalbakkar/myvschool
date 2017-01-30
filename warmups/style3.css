@@ -1,0 +1,17 @@
+#firstid
+{color:red; font-size: 20px; background-color: green; border: 2px solid red; margin: 12px 50px; padding: 15px;}
+#secondid
+{color: black; font-size: 100px; background-color: blue;
+}
+#main-navbar a{color: #444 !important; text-decoration: none; font-weight: bold;}
+
+
+#firstId .one{
+    
+    color : red;
+}
+
+#secondId .one{
+    
+    color : green
+}

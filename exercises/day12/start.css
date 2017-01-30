@@ -1,0 +1,18 @@
+.one{
+    background-color: black;
+    color: white;
+    width: 100%;
+    height: 100px;
+}
+.tow {
+    background-color: green;
+    height: 150px;
+    text-align: center;
+    height: 350px;
+    color: white;
+}
+.three{
+    border: green solid 2px;
+    width: 100%;
+    height:75px;
+}

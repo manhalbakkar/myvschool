@@ -1,0 +1,25 @@
+body{
+    background: url(http://www.jeuxmariogratuits.fr/jeux-mario/jeux-saut-mario.PNG) no-repeat;
+    background-color: aqua;
+}
+.one{
+
+width: 100%;
+height:2000px;
+}
+#tow {
+    text-align: center;
+}
+#three {
+  
+    display:inline-block;
+}
+button {
+    width: 20px;
+    height: 20px;
+    
+}
+p {
+    color: brown;
+    font-size: 25px;
+}

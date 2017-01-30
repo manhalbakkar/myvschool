@@ -1,0 +1,30 @@
+.box {
+    text-align: center;
+    border: solid 3px red;
+    width: 50%;
+    height: inherit;
+    background-color: aqua;
+    
+}
+.box2 {    text-align: center;
+    border: solid 3px red;
+    width: 50%;
+    height: inherit;
+    background-color: greenyellow;
+    
+    
+}
+.box3 {
+    text-align: center;
+    background-color: rebeccapurple;
+    width: 20%;
+    height: 20px;
+    
+        
+}
+button {
+    width: 15%;
+    height: 20px;
+    color: brown;
+    background-color: burlywood;
+}

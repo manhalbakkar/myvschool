@@ -1,0 +1,28 @@
+.one { background-color: pink;
+    width: 100%;
+    height: 75px;
+    
+}
+.tow {
+    background-color: darkred;
+    width: 100%;
+    height: 75px;
+    
+}
+.three {
+    background-color:aqua;
+    width: 100%;
+    height: 75px;
+    
+}
+.four {
+    background-color: lawngreen;
+    width: 100%;
+    height: 75px;
+    
+}
+.fife {
+    background-color: brown;
+    width: 100%;
+    height: 75px;
+}

@@ -1,0 +1,19 @@
+.firstClass{
+    color:aqua;
+    font-size: 20px;
+    text-align: center;
+    border : 2px solid pink;
+    background-color:yellw;
+    text-align: center;
+    margin: 20px 30px;
+    padding: 100px
+}
+
+.secondClass{
+    color:red;
+    font-size: 20px;
+    text-align: center;
+    border : 2px solid pink;
+    background-color: blue;
+    text-align: center;
+}

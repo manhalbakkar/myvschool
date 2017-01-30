@@ -1,0 +1,13 @@
+table {
+    text-align: center;
+}
+td, th {
+    padding: 5px;
+    color: goldenrod;
+}
+tr:nth-child(odd){
+    background-color: deepskyblue;
+}
+h1{
+    color: mediumvioletred;
+}

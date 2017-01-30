@@ -1,0 +1,22 @@
+body{
+    background-image: url("https://ishtarjornal2014.files.wordpress.com/2015/09/cropped-babylon-background.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+#tow{
+    text-align: center;
+}
+h1{
+    color: crimson;
+    text-align: center;
+}
+p {
+    color:maroon;
+    font-size: 35px;
+}
+footer{
+    color:crimson;
+    font-size: 20px;
+    text-align: right;
+}
